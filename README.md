@@ -29,6 +29,7 @@ More information in [redis web](https://redis.io/commands)
 ### Installing
 
 1 Copy the dependencies to lib/ext directory of jMeter.
+
 2 Copy the project jar to lib/ext directory
   - Download the project.
   - Compile with maven.
